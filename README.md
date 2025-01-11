@@ -29,7 +29,7 @@ This is a Trello Clone application that replicates the functionality of the popu
 ## 💻 How to Use the Trello Clone App
 
 1. **Visit the Live Demo**:  
-   Open the live version of the app here: [Trello Clone](https://trello-sand-one.vercel.app/)
+   Open the live version of the app here: [Trello Clone](https://trello-clone-aniket.vercel.app/)
 
 2. **Create a New Board**:  
    - Click on the "Add Board" option.
