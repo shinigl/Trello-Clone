@@ -2,7 +2,7 @@
 
 This is a Trello Clone application that replicates the functionality of the popular task management tool. Built using **React**, **react-beautiful-dnd**, and modern web development technologies, this app allows users to create, organize, and manage tasks in a simple and visually appealing way.
 
-🚀 **Live Demo**: [Trello Clone](https://trello-sand-one.vercel.app/)
+🚀 **Live Demo**: [Trello Clone](https://trello-clone-aniket.vercel.app/)
 
 ---
 
