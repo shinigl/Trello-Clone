@@ -14,9 +14,9 @@ const boardData={
       name:'my Trello board',
       bgcolor:'#333',
       list:[
-        {id:'1',title:"Panding",items:[{id:"cdrft",title:"Product discription 1"}]},
-        {id:'2',title:"progress",items:[{id:"cdrfb",title:"Product discription 2"}]},
-        {id:'3',title:"done",items:[{id:"cdrfv",title:"Product discription 3"}]}
+        {id:'1',title:"Pending",items:[{id:"cdrft",title:"Product discription 1"}]},
+        {id:'2',title:"Progress",items:[{id:"cdrfb",title:"Product discription 2"}]},
+        {id:'3',title:"Done",items:[{id:"cdrfv",title:"Product discription 3"}]}
       ]
 
     }
